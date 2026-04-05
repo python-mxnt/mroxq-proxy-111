@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mroxq-proxy-111",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c2bc68f8-69d0-4871-8ed5-5875da707c4b",
+			"database_name": "mroxq-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
